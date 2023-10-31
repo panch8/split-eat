@@ -1,3 +1,9 @@
+# Simple SPLIT BILL using create-react-app. 
+
+To run fork, and ```npm instal```, and ```npm start``` will run locally on port 3000.
+feel free to contribute. feedback is apreciate. Cheers. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
